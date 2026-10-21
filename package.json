@@ -1,0 +1,19 @@
+{
+  "name": "sistema-aprobacion-hitl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stancode-ai/sistema-aprobacion-hitl.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/stancode-ai/sistema-aprobacion-hitl/issues"
+  },
+  "homepage": "https://github.com/stancode-ai/sistema-aprobacion-hitl#readme"
+}
